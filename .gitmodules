@@ -1,0 +1,10 @@
+[submodule "lib/Hunyuan3D-1"]
+    path = lib/Hunyuan3D-1
+    url = https://github.com/Tencent/Hunyuan3D-1.git
+    branch = main
+
+
+[submodule "lib/Hunyuan3D-2"]
+    path = lib/Hunyuan3D-2
+    url = https://github.com/Tencent/Hunyuan3D-2.git
+    branch = main
