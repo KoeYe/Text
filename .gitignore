@@ -1,2 +1,7 @@
 /output
 /mip-splatting
+
+/output
+/submodules
+
+*.whl
